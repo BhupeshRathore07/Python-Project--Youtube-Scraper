@@ -14,11 +14,6 @@ body * {
   text-transform: uppercase;
 }
 
-img {
-  border-radius: 50%;
-  height: 60px;
-  width: 60px;
-}
 
 .table-users {
   border: 1px solid #327a81;
@@ -27,7 +22,6 @@ img {
   max-width: calc(100% - 2em);
   margin: 1em auto;
   overflow: hidden;
-  width: 800px;
 }
 
 table {
