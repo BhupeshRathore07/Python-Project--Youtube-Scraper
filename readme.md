@@ -58,13 +58,21 @@ python main.py
 
 ---
 
-### 6. Now we are on **":5000/review"** page, where top 5 youtube video's details are stored in csv and displayed as well:
+### 6. Now we are on **":5000/review"** page, where top 5 youtube video's details are stored in CSV and displayed as well:
 
 ![image](https://user-images.githubusercontent.com/70787869/233071633-21ba7815-c8ec-4705-acda-6916d23bc00e.png)
 
 ---
 
-### 7. Also the csv file is saved in base directory:
+### 7. The CSV file is also saved in the base directory:
 ![image](https://user-images.githubusercontent.com/70787869/233077702-f957af21-2d75-4b16-aee5-c24469deab7c.png)
 
 ![image](https://user-images.githubusercontent.com/70787869/233071705-742d59f2-22ec-455a-9d82-d3b59502772e.png)
+
+---
+
+## Thank you! 
+
+This YouTube Scraper project is a fun and useful tool for anyone interested in extracting data from YouTube channels. 
+
+### So, enjoy the limitless possibilities of data science 🚀 and the power of Python coding 🐍! The sky's the limit! 🌌
